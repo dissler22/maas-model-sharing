@@ -1,0 +1,31 @@
+# =============================================================================================
+# REQUIREMENTS.TXT - MODÈLE MaaS AVEC HÉTÉROGÉNÉITÉ DES PRÉFÉRENCES
+# =============================================================================================
+# 
+# Ce fichier contient toutes les dépendances Python nécessaires pour exécuter
+# les modèles MaaS développés par Marius DISSLER.
+#
+# Installation : pip install -r requirements.txt
+# =============================================================================================
+
+# Calcul symbolique et mathématique
+sympy>=1.12.0
+
+# Calcul numérique et optimisation
+numpy>=1.24.0
+scipy>=1.10.0
+
+# Visualisation et graphiques
+matplotlib>=3.7.0
+
+# Manipulation de données
+pandas>=2.0.0
+
+# =============================================================================================
+# VERSIONS RECOMMANDÉES POUR LA STABILITÉ
+# =============================================================================================
+# 
+# Ces versions ont été testées et sont compatibles entre elles.
+# Pour une installation minimale, vous pouvez utiliser :
+# pip install sympy numpy scipy matplotlib pandas
+# ============================================================================================= 
